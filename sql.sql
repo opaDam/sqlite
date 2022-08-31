@@ -3,5 +3,5 @@
 -- INSERT INTO users (username, password, email)
 -- VALUES ("Joe", "joespassword", "joe@yahoo.com");
 
-SELECT password FROM users
-WHERE username = "Joe";
+SELECT * FROM users;
+-- WHERE username = "Joe";
